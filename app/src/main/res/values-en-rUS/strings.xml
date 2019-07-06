@@ -11,4 +11,7 @@
     <string name="multiplicacion">Multiply</string>
     <string name="suma">Add</string>
     <string name="division">Division</string>
+    <string name="error_1">Type number one</string>
+    <string name="error_2">Type number two</string>
+    <string name="error_3">This number can\'t be zero</string>
 </resources>

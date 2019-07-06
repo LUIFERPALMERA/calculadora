@@ -16,4 +16,7 @@
         <item>@string/multiplicacion</item>
         <item>@string/division</item>
     </string-array>
+    <string name="error_1">Digite el número uno</string>
+    <string name="error_2">Digite el número dos</string>
+    <string name="error_3">El denominador no puede ser cero</string>
 </resources>
